@@ -1,6 +1,6 @@
 # Trabajo Práctico - Red Neuronal desde Cero
 
-Este repositorio contiene el desarrollo completo de un trabajo práctico que consiste en analizar una base de datos, implementar una red neuronal manualmente utilizando `numpy`, compararla con una versión en `scikit-learn` y reflexionar sobre el proceso.
+Este repositorio contiene el desarrollo completo de un trabajo práctico que consiste en analizar una base de datos, implementar una red neuronal manualmente utilizando distintas tecnologias como `sympy`, `numpy` y `pandas`, compararla con una versión en `scikit-learn` y reflexionar sobre el proceso.
 
 ## 📁 Estructura del proyecto
 
@@ -57,8 +57,9 @@ Reflexión sobre el proceso completo:
 
 ## 🛠 Tecnologías utilizadas
 
-- Python 3
+- Python 
 - Numpy
+- Sympy
 - Pandas
 - Matplotlib / Seaborn
 - Scikit-learn
