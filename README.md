@@ -64,3 +64,12 @@ Reflexión sobre el proceso completo:
 - Matplotlib / Seaborn
 - Scikit-learn
 - Jupyter Notebook
+  
+## 📬 Contacto
+
+Realizado por:
+
+- Nahuel Millauro  
+- Lautaro Ávila Mena  
+Tecnicatura en Programación Informática - UNSAM  
+San Martín, Buenos Aires
