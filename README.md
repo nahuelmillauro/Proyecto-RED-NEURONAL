@@ -22,15 +22,13 @@ Se realiza un análisis exploratorio completo sobre un dataset de clasificación
 
 ### 🤖 Parte 2 - Red Neuronal en Numpy
 Se implementa una red neuronal desde cero:
-- Arquitectura con múltiples capas ocultas.
-- Funciones de activación (ReLU, Sigmoid, etc.).
+- Arquitectura con capas ocultas.
+- Funciones de activación (ReLU, Logistic, etc.).
 - Entrenamiento con retropropagación y descenso por gradiente estocástico.
 - Gráficos de pérdida y precisión.
 
 📄 Archivos:
-- `red_neuronal_numpy.py`
-- `entrenamiento_numpy.ipynb`
-- `graficos_numpy.png`
+- `red_neuronal_numpy.ipynb`
 
 ---
 
@@ -41,8 +39,6 @@ Se construye una red neuronal equivalente usando `scikit-learn` para comparar re
 
 📄 Archivos:
 - `red_neuronal_sklearn.py`
-- `entrenamiento_sklearn.ipynb`
-- `comparacion_numpy_vs_sklearn.ipynb`
 
 ---
 
