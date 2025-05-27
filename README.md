@@ -15,6 +15,8 @@ Se realiza un análisis exploratorio completo sobre un dataset de clasificación
 📄 Archivos:
 - `analisis_exploratorio.ipynb`
 - `calidad_manzana.csv`
+- `calidad_manzana_limpia.csv`
+- `manzanas_procesado.csv`
 
 ---
 
