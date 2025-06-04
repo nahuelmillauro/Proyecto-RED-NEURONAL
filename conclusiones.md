@@ -1,7 +1,6 @@
-##  CONCLUSION 
----
 
 ## Conclusión
+---
 
 ### ✅ Ventajas de construir la red manualmente (con NumPy)
 
